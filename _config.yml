@@ -1,3 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
+title: A tutorial for the SCORE Ontology
+description: This is a brief tutorial for the SCORE Ontology
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

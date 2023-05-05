@@ -59,7 +59,7 @@ You are a requirement engineer working on a banking system. You are mainly conce
 1. Go to the use ontology page.
 ![Figure 4](./figures/figure4.png?raw=true "Web interface")
 2. Choose the banking domain.
-![Figure 10](./figures/figure10.png?raw=true "Web interface")
+![Figure 10](./figures/figure10.jpg?raw=true "Web interface")
 
 3. Since we are concerned about privacy, choose the privacy security criterion.
 ![Figure 11](./figures/figure11.png?raw=true "Web interface")

@@ -11,7 +11,7 @@ For that, we have defined the following **core ontology** in which:
 - A security criterion is enforced by one security mechanism or more.
 - A security criterion is linked to other security criteria (not itself) using the relationships: ensures, precedes, isAppliedBy, provides, conserves, testsFor, revokes, and contributesTo.
 
-*Figure 1 Generic Ontology in Protege*
+![Figure 1](./figures/figure1.png?raw=true "Figure 1 Generic Ontology in Protege")
 
 The **relationships** are divided into three priorities:
 

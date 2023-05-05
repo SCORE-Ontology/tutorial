@@ -23,6 +23,8 @@ The **relationships** are divided into three priorities:
 
 Then we populated the core ontology and achieved the following **security criteria ontology**
 
+![Figure 2](./figures/figure2.png?raw=true "Figure 2 Generic Ontology Concepts")
+
 The **concepts** of this ontology are security criteria, where a security criterion is a property that needs to be preserved so that the system stays secure, for example: Confidentiality, Integrity, Availability…
 
 The relationships between these criteria make defining additional security requirements possible.
@@ -31,12 +33,20 @@ The relationships between these criteria make defining additional security requi
 We implemented the ontology using protégé (an ontology editor). Then, we created an API that provides access to the ontology.
 After that, and to consume the API, we created a web interface that facilitates the use of the security criteria ontology.
 
+![Figure 3](./figures/figure3.png?raw=true "Web interface")
+
 1. To use the ontology, click on Use Ontology in the navigation bar or on USE NOW in the USE THE ONTOLOGY card.
-1. Then choose the domain, the results are the security criteria in the domain according to our research so far
-1. If you click on one of the security criteria, you will have two choices: to see the security mechanisms of this criterion or to see the additional criteria.
-1. If you are writing only one requirement with the chosen security criteria, you would want to click the security mechanisms 
-1. If you need to write the additional security requirements, then you would want to click on additional criteria
-1. If you need the additional criteria related strictly to the security criterion chosen, you would want to choose All Additional Criteria to get the criteria with all priorities, High Priority Additional Criteria to get only the criteria with high priority, Medium Priority Additional Criteria to get only the criteria with medium priority, or Low Priority Additional Criteria to get only the criteria with low priority.
+![Figure 3](./figures/figure3.png?raw=true "Web interface")
+2. Then choose the domain, the results are the security criteria in the domain according to our research so far
+![Figure 3](./figures/figure3.png?raw=true)
+3. If you click on one of the security criteria, you will have two choices: to see the security mechanisms of this criterion or to see the additional criteria.
+![Figure 3](./figures/figure3.png?raw=true)
+4. If you are writing only one requirement with the chosen security criteria, you would want to click the security mechanisms 
+![Figure 4](./figures/figure4.png?raw=true)
+5. If you need to write the additional security requirements, then you would want to click on additional criteria
+![Figure 5](./figures/figure5.png?raw=true)
+6. If you need the additional criteria related strictly to the security criterion chosen, you would want to choose All Additional Criteria to get the criteria with all priorities, High Priority Additional Criteria to get only the criteria with high priority, Medium Priority Additional Criteria to get only the criteria with medium priority, or Low Priority Additional Criteria to get only the criteria with low priority.
+![Figure 6](./figures/figure6.png?raw=true)
 
 1. However, if you want to get the tree of all additional security criteria and not only the ones directly related to the chosen security criteria, you would want to choose Additional Criteria Tree. 
 1. Then, to get the security mechanisms of each criterion, click on it in the tree

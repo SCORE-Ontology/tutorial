@@ -36,17 +36,17 @@ After that, and to consume the API, we created a web interface that facilitates 
 ![Figure 3](./figures/figure3.png?raw=true "Web interface")
 
 1. To use the ontology, click on Use Ontology in the navigation bar or on USE NOW in the USE THE ONTOLOGY card.
-![Figure 3](./figures/figure3.png?raw=true "Web interface")
+![Figure 4](./figures/figure4.png?raw=true "Web interface")
 2. Then choose the domain, the results are the security criteria in the domain according to our research so far
-![Figure 3](./figures/figure3.png?raw=true)
-3. If you click on one of the security criteria, you will have two choices: to see the security mechanisms of this criterion or to see the additional criteria.
-![Figure 3](./figures/figure3.png?raw=true)
-4. If you are writing only one requirement with the chosen security criteria, you would want to click the security mechanisms 
-![Figure 4](./figures/figure4.png?raw=true)
-5. If you need to write the additional security requirements, then you would want to click on additional criteria
 ![Figure 5](./figures/figure5.png?raw=true)
-6. If you need the additional criteria related strictly to the security criterion chosen, you would want to choose All Additional Criteria to get the criteria with all priorities, High Priority Additional Criteria to get only the criteria with high priority, Medium Priority Additional Criteria to get only the criteria with medium priority, or Low Priority Additional Criteria to get only the criteria with low priority.
+3. If you click on one of the security criteria, you will have two choices: to see the security mechanisms of this criterion or to see the additional criteria.
 ![Figure 6](./figures/figure6.png?raw=true)
+4. If you are writing only one requirement with the chosen security criteria, you would want to click the security mechanisms 
+![Figure 7](./figures/figure7.png?raw=true)
+5. If you need to write the additional security requirements, then you would want to click on additional criteria
+![Figure 8](./figures/figure8.png?raw=true)
+6. If you need the additional criteria related strictly to the security criterion chosen, you would want to choose All Additional Criteria to get the criteria with all priorities, High Priority Additional Criteria to get only the criteria with high priority, Medium Priority Additional Criteria to get only the criteria with medium priority, or Low Priority Additional Criteria to get only the criteria with low priority.
+![Figure 9](./figures/figure9.png?raw=true)
 
 1. However, if you want to get the tree of all additional security criteria and not only the ones directly related to the chosen security criteria, you would want to choose Additional Criteria Tree. 
 1. Then, to get the security mechanisms of each criterion, click on it in the tree

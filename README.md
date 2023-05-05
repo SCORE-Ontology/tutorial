@@ -1,5 +1,5 @@
 
-# Totorial to Define a secure-by-design system using our Ontology
+# Tutorial to Define a secure-by-design system using our Ontology
 
 Then we have to consider security at the requirements specification stage
 # The security criteria ontology:

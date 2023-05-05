@@ -57,22 +57,41 @@ You are a requirement engineer working on a banking system. You are mainly conce
 
 **Go to <http://193.52.45.42:8787/>** 
 1. Go to the use ontology page.
-1. Choose the banking domain.
-1. Since we are concerned about privacy, choose the privacy security criterion.
-1. To see the additional criteria that can be defined to enforce privacy, choose Additional Criteria.
-1. Then choose additional criteria tree. 
-1. To see the security mechanisms of each criteria, click on it.
-1. Then using this tree, the table, and the template given below, we define the security requirements for privacy, confidentiality, and access control.
+![Figure 4](./figures/figure4.png?raw=true "Web interface")
+2. Choose the banking domain.
+![Figure 10](./figures/figure10.png?raw=true "Web interface")
+
+3. Since we are concerned about privacy, choose the privacy security criterion.
+![Figure 11](./figures/figure11.png?raw=true "Web interface")
+
+4. To see the additional criteria that can be defined to enforce privacy, choose Additional Criteria.
+![Figure 12](./figures/figure12.png?raw=true "Web interface")
+![Figure 13](./figures/figure13.png?raw=true "Web interface")
+
+5. Then choose additional criteria tree. 
+![Figure 14](./figures/figure14.png?raw=true "Web interface")
+
+6. To see the security mechanisms of each criteria, click on it.
+![Figure 15](./figures/figure15.png?raw=true "Web interface")
+
+7. Then using this tree, the table, and the template given below, we define the security requirements for privacy, confidentiality, and access control.
+![Figure 16](./figures/figure16.png?raw=true "Web interface")
 
 Template: The system <word> <verb> the <security criteria> of the user’s data by <security mechanism>
 
 1. SR-SYS-PR-01 : The system SHALL guarantee the privacy of user’s data by Attribute Based Access Control.
-1. SR-SYS-CO-01: The system SHALL guarantee the confidentiality of user’s data by Symmetric Encryption.
+![Figure 17](./figures/figure17.png?raw=true "Web interface")
+
+1.1. SR-SYS-CO-01: The system SHALL guarantee the confidentiality of user’s data by Symmetric Encryption.
+![Figure 18](./figures/figure18.png?raw=true "Web interface")
 
 **Confidentiality ensures privacy. Then, according to the table, the priority word to use is SHALL and the verb is guarantee.**
 
-1. SR-SYS-AN-01: The system COULD grant the anonymity of user’s data by Anonymous Communication System
+1.1.1 SR-SYS-AN-01: The system COULD grant the anonymity of user’s data by Anonymous Communication System
+![Figure 19](./figures/figure19.png?raw=true "Web interface")
+
 1. SR-SYS-AC-01: The system SHALL guarantee the access control of user’s data by challenge response.
+![Figure 20](./figures/figure20.png?raw=true "Web interface")
 
 # Conclusion
 
